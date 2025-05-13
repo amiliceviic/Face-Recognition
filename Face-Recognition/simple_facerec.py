@@ -9,7 +9,6 @@ class SimpleFacerec:
         self.known_face_encodings = []
         self.known_face_names = []
 
-        # Resize frame for a faster speed
         self.frame_resizing = 0.25
 
     def load_encoding_images(self, images_path):
@@ -18,17 +17,14 @@ class SimpleFacerec:
         :param images_path:
         :return:
         """
-        # Load Images
         images_path = glob.glob(os.path.join(images_path, "*.*"))
 
         print("{} encoding images found.".format(len(images_path)))
 
-        # Store image encoding and names
         for img_path in images_path:
             img = cv2.imread(img_path)
             rgb_img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 
-            # Get the filename only from the initial file path.
             basename = os.path.basename(img_path)
             (filename, ext) = os.path.splitext(basename)
             # Get encoding
