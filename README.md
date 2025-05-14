@@ -106,7 +106,7 @@ pytest
 
 ---
 
-## Credits
+## 🔍 Credits
 
 Icons made by [Freepik](https://www.freepik.com) from www.freepik.com
 
