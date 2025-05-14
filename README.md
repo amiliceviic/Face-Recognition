@@ -106,11 +106,12 @@ pytest
 
 ---
 
-<div align="left"><a href="#top">⬆ Return</a></div>
-
----
-
-
 ## Credits
 
 Icons made by [Freepik](https://www.freepik.com) from www.freepik.com
+
+---
+
+<div align="left"><a href="#top">⬆ Return</a></div>
+
+---
