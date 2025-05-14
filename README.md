@@ -1,6 +1,3 @@
-# Face-Recognition
- FACE RECOGNITION IN REAL-TIME | WITH OPENCV AND PYTHON
-
  <div id="top">
 
 <!-- HEADER STYLE: CLASSIC -->
