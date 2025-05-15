@@ -93,6 +93,9 @@ conda activate {venv}
 python {entrypoint}
 ```
 
+Note: The sample images provided in this repository are for demonstration purposes only and are used under fair use or placeholder context due to copyright limitations.
+If you wish to test the full functionality of the face recognition app, you must manually add images of the celebrities or known individuals you want the application to recognize. These images should be placed inside the images/ directory. The application will use this folder to identify and compare faces during runtime.
+
 ### 🧪 Testing
 
 Face-recognition uses the {__test_framework__} test framework. Run the test suite with:
