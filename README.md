@@ -43,7 +43,6 @@ This project simplifies the implementation of facial recognition technology, mak
 - 🎥 **Real-time Recognition:** Instantly identify known faces using webcam feeds, enhancing interactivity.
 - 🔍 **Image Comparison:** Accurately compare faces with the help of OpenCV and the face_recognition library.
 - 🤖 **Graceful Handling of Unknown Faces:** Seamlessly manage unknown individuals while recognizing familiar ones.
-- 🌟 **Community Acknowledgment:** Credits contributions from Freepik, promoting ethical resource use and transparency.
 - 📊 **User Interaction:** Provides visual feedback on recognition processes, improving overall user experience.
 
 ---
