@@ -3,7 +3,6 @@
 <!-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
-
 #  FACE RECOGNITION IN REAL-TIME | WITH OPENCV AND PYTHON
 
 <em>Unlocking identities, enhancing connections through vision.</em>
