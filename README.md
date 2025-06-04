@@ -1,6 +1,5 @@
  <div id="top">
 
-
 <div align="center">
 
 #  FACE RECOGNITION IN REAL-TIME | WITH OPENCV AND PYTHON
